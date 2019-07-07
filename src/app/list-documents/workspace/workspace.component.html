@@ -1,5 +1,5 @@
 <div class="workspaceContent table-responsive">
-    <table class="table table-hover">
+    <table class="table">
         <thead class="headTable">
           <tr>
             <th scope="col"><a href="">Номер</a></th>
@@ -17,7 +17,9 @@
           </tr>
         </thead>
         <tbody>
-          <tr *ngFor="let task of taskList">
+          <tr *ngFor="let task of taskList"
+          [routerLink]="task.number"
+          routerLinkActive="router-link-active" >
               <td>{{task.number}}</td>
               <td>{{task.company}}</td>
               <td>{{task.status}}</td>

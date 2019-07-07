@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "2",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "3",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "4",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "5",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "6",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "7",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "8",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "9",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "10",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "11",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "12",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    },
+    {
+        "id": "13",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": "без отключения линии"
+        }
+    },
+    {
+        "id": "14",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": "с отключением тоновых цепей"
+        }
+    },
+    {
+        "id": "15",
+        "data": {
+            "company": "OOO Test Task",
+            "status": "Новая",
+            "object": "Высотка",
+            "equipment": "ГК-1",
+            "timeStart": "08:00 10.12.19",
+            "timeEnd": "08:00 12.12.19",
+            "allowStart": "08:00 10.12.19",
+            "allowEnd": "08:00 16.12.19",
+            "kind": "ТР",
+            "category": "НПЛ",
+            "upr": ""
+        }
+    }
+]

@@ -9,6 +9,7 @@ import { FilterComponent } from './filter/filter.component';
 import { WorkspaceComponent } from './workspace/workspace.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { ButtonsModule } from 'ngx-bootstrap/buttons';
+import { DocumentComponent } from './document/document.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { ButtonsModule } from 'ngx-bootstrap/buttons';
     ToolbarComponent,
     FilterComponent,
     WorkspaceComponent,
-    NavigationComponent
+    NavigationComponent,
+    DocumentComponent
   ],
   imports: [
     CommonModule,

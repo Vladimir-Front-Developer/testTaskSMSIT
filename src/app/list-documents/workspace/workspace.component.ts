@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TaskListService } from 'src/app/services/TaskListService.service';
+import { TaskService } from 'src/app/services/TaskService.service';
 
 export interface TaskList {
   number: string,
@@ -23,11 +23,10 @@ export interface TaskList {
 })
 export class WorkspaceComponent implements OnInit {
   taskList: TaskList
-  constructor(private taskListService: TaskListService) { }
+  constructor(private taskService: TaskService) { }
   ngOnInit() {
-    this.taskListService.getList().subscribe((data: TaskList) => {
+    this.taskService.getList().subscribe((data: TaskList) => {
       this.taskList = data
     })
   }
-
 }
