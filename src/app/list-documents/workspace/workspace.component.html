@@ -1,0 +1,36 @@
+<div class="workspaceContent table-responsive">
+    <table class="table table-hover">
+        <thead class="headTable">
+          <tr>
+            <th scope="col"><a href="">Номер</a></th>
+            <th scope="col"><a href="">Предриятие</a></th>
+            <th scope="col"><a href="">Состаяние заявки</a></th>
+            <th scope="col"><a href="">Объект</a></th>
+            <th scope="col"><a href="">Оборудование</a></th>
+            <th scope="col"><a href="">Совокуп. начало</a></th>
+            <th scope="col"><a href="">Совокуп. конец</a></th>
+            <th scope="col"><a href="">Разреш. начало</a></th>
+            <th scope="col"><a href="">Рареш. конец</a></th>
+            <th scope="col"><a href="">Вид</a></th>
+            <th scope="col"><a href="">Категория</a></th>
+            <th scope="col"><a href="">УПР</a></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let task of taskList">
+              <td>{{task.number}}</td>
+              <td>{{task.company}}</td>
+              <td>{{task.status}}</td>
+              <td>{{task.object}}</td>
+              <td>{{task.equipment}}</td>
+              <td>{{task.timeStart}}</td>
+              <td>{{task.timeEnd}}</td>
+              <td>{{task.allowStart}}</td>
+              <td>{{task.allowEnd}}</td>
+              <td>{{task.kind}}</td>
+              <td>{{task.category}}</td>
+              <td>{{task.upr}}</td>
+          </tr>
+        </tbody>
+      </table>
+</div>

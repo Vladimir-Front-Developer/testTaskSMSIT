@@ -1,0 +1,8 @@
+<div class="filterContent">
+  <div (click)="showfilter()">
+    <img [src]="icon">
+    <span>Фильтр</span>
+    <a href=""> "Все заявки"</a>
+  </div>
+  <div *ngIf="visiblSettings" class="filterSettings"></div>
+</div>
